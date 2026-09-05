@@ -14,12 +14,39 @@ if missing:
     print("Missing required files: " + ", ".join(missing), file=sys.stderr)
     sys.exit(1)
 
-if (
-    (ROOT / "assembly").exists()
-    or (ROOT / "Main.py").exists()
-    or (ROOT / "NATscript.sh").exists()
-):
-    print("A standalone project is still mixed into this archive", file=sys.stderr)
+standalone_names = {
+    "GAMELOSE.bmp",
+    "MUSIC.asm",
+    "SPACE_V1.asm",
+    "SPACE_V2.asm",
+    "STORY.bmp",
+    "TEST.asm",
+    "black.bmp",
+    "gameover.bmp",
+    "lose.bmp",
+    "mainmenu.bmp",
+    "rules.bmp",
+    "IcmpHandler.py",
+    "IpHandler.py",
+    "LoggingSystem.py",
+    "Main.py",
+    "NATmonitor.py",
+    "NATscript.sh",
+    "SendRecieve.py",
+    "TcpHandler.py",
+    "UdpHandler.py",
+}
+mixed_files = sorted(
+    path.relative_to(ROOT).as_posix()
+    for path in ROOT.rglob("*")
+    if path.is_file() and ".git" not in path.parts and path.name in standalone_names
+)
+if (ROOT / "assembly").exists() or mixed_files:
+    detail = ": " + ", ".join(mixed_files) if mixed_files else ""
+    print(
+        "A standalone project is still mixed into this archive" + detail,
+        file=sys.stderr,
+    )
     sys.exit(1)
 
 for path in ROOT.rglob("*"):
@@ -61,10 +88,21 @@ markers = [
     "/" + "home" + "/",
     "C:" + "\\" + "Users",
 ]
-if any(marker in combined for marker in markers) or re.search(
-    r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+", combined
+if (
+    any(marker in combined for marker in markers)
+    or re.search(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+", combined)
+    or re.search(r"(?<!\d)\d{9}(?!\d)", combined)
 ):
     print("Privacy or machine-path marker found in tracked text", file=sys.stderr)
+    sys.exit(1)
+payload_text = "\n".join(
+    path.read_text(encoding="utf-8", errors="ignore")
+    for path in (ROOT / "python-networking").rglob("*.py")
+)
+if "class TcpNat" in payload_text or "socket.AF_PACKET" in payload_text:
+    print(
+        "NAT implementation content is still mixed into this archive", file=sys.stderr
+    )
     sys.exit(1)
 for marker in ["socket", "scapy"]:
     if marker not in combined:
