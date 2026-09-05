@@ -4,17 +4,20 @@ My selected high-school programming work.
 
 ## Project Summary
 
-This repository consolidates a small representative set of high-school programming artifacts instead of publishing many small repos.
+This repository consolidates a small representative set of high-school Python networking exercises in one archive.
 
 ## Contents
 
-- `assembly/space-invaders/` contains a DOS-era assembly game source snapshot with bitmap assets.
 - `python-networking/` contains small Python networking exercises covering sockets, simple client/server flows, DNS sniffing, and HTTP-style examples.
 - `docs/OMITTED_ARTIFACTS.md` lists recovered material that was intentionally left out.
 
+Two substantial projects recovered from the same high-school archive are maintained independently:
+
+- `high-school-dos-space-invaders`
+- `high-school-nat-router`
+
 ## Tech Stack
 
-- x86 assembly for DOS-style tooling
 - Python 2 networking scripts
 - Basic sockets and Scapy-era packet inspection examples
 
@@ -26,4 +29,4 @@ Run:
 make check
 ```
 
-The check is static. It confirms the expected representative files are present and scans tracked text for privacy and machine-path markers. Legacy DOS/Python 2 tooling was not available during validation.
+The check confirms the expected representative files are present, verifies that the two standalone projects are no longer mixed into this archive, and scans tracked text for privacy and machine-path markers. Running the classroom network exercises still requires a controlled legacy Python 2 environment.
