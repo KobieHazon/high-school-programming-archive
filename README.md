@@ -1,6 +1,6 @@
 # High-School Programming Archive
 
-My selected high-school programming work.
+A collection of my high-school programming exercises.
 
 ## Project Summary
 
