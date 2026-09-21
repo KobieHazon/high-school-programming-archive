@@ -9,9 +9,8 @@ This repository consolidates a small representative set of high-school Python ne
 ## Contents
 
 - `python-networking/` contains small Python networking exercises covering sockets, simple client/server flows, DNS sniffing, and HTTP-style examples.
-- `docs/OMITTED_ARTIFACTS.md` lists recovered material that was intentionally left out.
 
-Two substantial projects recovered from the same high-school archive are maintained independently:
+Two substantial projects from the same high-school archive are maintained independently:
 
 - `high-school-dos-space-invaders`
 - `high-school-nat-router`
@@ -27,6 +26,9 @@ Run:
 
 ```sh
 make check
+make test
 ```
 
-The check confirms the expected representative files are present, verifies that the two standalone projects are no longer mixed into this archive, and scans tracked text for privacy and machine-path markers. Running the classroom network exercises still requires a controlled legacy Python 2 environment.
+`make test` runs the actual echo client and time server over loopback sockets in a Python 2 Docker container, with external networking disabled. It checks request/reply behavior and client reconnection. Docker is required.
+
+`make check` checks the source collection. The other classroom scripts include incomplete sketches and packet-sniffing examples; they are not all standalone applications and are not covered by the loopback suite.

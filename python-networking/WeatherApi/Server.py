@@ -39,9 +39,13 @@ if __name__ == "__main__":
                     # In Windows, sometimes when a TCP program closes abruptly,
                     # a "Connection reset by peer" exception will be thrown
                     data = sock.recv(RECV_BUFFER)
+                    if not data:
+                        sock.close()
+                        CONNECTION_LIST.remove(sock)
+                        continue
                     if data == "What's the time?":
                             print "Got Here"
-                            socket.send(time.time())
+                            sock.sendall(str(time.time()))
 
 
                 except:
