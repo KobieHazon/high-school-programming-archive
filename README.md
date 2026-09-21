@@ -25,10 +25,9 @@ Two substantial projects from the same high-school archive are maintained indepe
 Run:
 
 ```sh
-make check
 make test
 ```
 
 `make test` runs the actual echo client and time server over loopback sockets in a Python 2 Docker container, with external networking disabled. It checks request/reply behavior and client reconnection. Docker is required.
 
-`make check` checks the source collection. The other classroom scripts include incomplete sketches and packet-sniffing examples; they are not all standalone applications and are not covered by the loopback suite.
+The other classroom scripts include incomplete sketches and packet-sniffing examples; they are not all standalone applications and are not covered by the loopback suite.
