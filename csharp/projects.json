@@ -1,0 +1,1386 @@
+[
+  {
+    "path": "csharp/grade10/basics/38",
+    "kind": "exercise",
+    "assembly": "Exercise_de587ea89f",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/39",
+    "kind": "exercise",
+    "assembly": "Exercise_33f52789a2",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/9test",
+    "kind": "exercise",
+    "assembly": "Exercise_8c0517ca23",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/bstring1",
+    "kind": "exercise",
+    "assembly": "Exercise_f52f1c1b73",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/bstring6",
+    "kind": "exercise",
+    "assembly": "Exercise_878ef1b558",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/bagrut-difference",
+    "kind": "exercise",
+    "assembly": "Exercise_04bd5028d4",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/bstring3",
+    "kind": "exercise",
+    "assembly": "Exercise_3e73bf3019",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/bstring4",
+    "kind": "exercise",
+    "assembly": "Exercise_70f63ed0a0",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/bstring5",
+    "kind": "exercise",
+    "assembly": "Exercise_e9032ea6fb",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/bstring7",
+    "kind": "exercise",
+    "assembly": "Exercise_90d124a4c3",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/bstring8",
+    "kind": "exercise",
+    "assembly": "Exercise_0162c3c44c",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/class-students",
+    "kind": "exercise",
+    "assembly": "Exercise_75bcbac7f8",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/fibbonacci2-18",
+    "kind": "exercise",
+    "assembly": "Exercise_9540ff770d",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/random-numbers-5",
+    "kind": "exercise",
+    "assembly": "Exercise_0b252cff13",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/string1",
+    "kind": "exercise",
+    "assembly": "Exercise_ef10290dff",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/string2",
+    "kind": "exercise",
+    "assembly": "Exercise_c8043aa8b6",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/string5",
+    "kind": "exercise",
+    "assembly": "Exercise_4743de5605",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/stirng4",
+    "kind": "exercise",
+    "assembly": "Exercise_9902594f56",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/string10",
+    "kind": "exercise",
+    "assembly": "Exercise_fe2a17b6dd",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/string11",
+    "kind": "exercise",
+    "assembly": "Exercise_66b4ede0b8",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/string12",
+    "kind": "exercise",
+    "assembly": "Exercise_31f210ac7a",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/string13",
+    "kind": "exercise",
+    "assembly": "Exercise_81f4c79cf1",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/string14",
+    "kind": "exercise",
+    "assembly": "Exercise_a4d957a287",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/string15",
+    "kind": "exercise",
+    "assembly": "Exercise_9db5f08cd9",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/string3",
+    "kind": "exercise",
+    "assembly": "Exercise_377101365e",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/string7",
+    "kind": "exercise",
+    "assembly": "Exercise_ff07c23731",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/string8",
+    "kind": "exercise",
+    "assembly": "Exercise_14ebc0653e",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/switch",
+    "kind": "exercise",
+    "assembly": "Exercise_712bf23e69",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/apple-crate-13",
+    "kind": "exercise",
+    "assembly": "Exercise_7cc8f4c7cb",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/apple-picking-10",
+    "kind": "exercise",
+    "assembly": "Exercise_acc801a6a9",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/ascending-numbers-14",
+    "kind": "exercise",
+    "assembly": "Exercise_9869c07b92",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/bagrutmagen-26",
+    "kind": "exercise",
+    "assembly": "Exercise_b9ed82b1aa",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/do-while-basic-20",
+    "kind": "exercise",
+    "assembly": "Exercise_f5b20e5410",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/dualarrray1",
+    "kind": "exercise",
+    "assembly": "Exercise_1e214aa077",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/electricity",
+    "kind": "exercise",
+    "assembly": "Exercise_42db099ac0",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/family-average-8",
+    "kind": "exercise",
+    "assembly": "Exercise_d52c82c408",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/fibbonacci1-18",
+    "kind": "exercise",
+    "assembly": "Exercise_2fb251ee7f",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/fibonacci-basic-for",
+    "kind": "exercise",
+    "assembly": "Exercise_e2428b5a32",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/flipped-numbers-21",
+    "kind": "exercise",
+    "assembly": "Exercise_8ec79d582d",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/flying-course",
+    "kind": "exercise",
+    "assembly": "Exercise_b2dc8f61f0",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/for-with-if-40",
+    "kind": "exercise",
+    "assembly": "Exercise_fe2fe432c2",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/grade-average-16",
+    "kind": "exercise",
+    "assembly": "Exercise_54515ef3d3",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/homework-students-7",
+    "kind": "exercise",
+    "assembly": "Exercise_f551c8a70c",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/humus-9",
+    "kind": "exercise",
+    "assembly": "Exercise_cfe8e96429",
+    "status": "draft",
+    "note": "Unfinished condition in the price-processing loop.",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/karate-course",
+    "kind": "exercise",
+    "assembly": "Exercise_76a92b08a4",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/kid-age-46",
+    "kind": "exercise",
+    "assembly": "Exercise_fa55e7c63d",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/number-pairs-11",
+    "kind": "exercise",
+    "assembly": "Exercise_7d97346a3d",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/numbersbetween-for-32",
+    "kind": "exercise",
+    "assembly": "Exercise_f79363ba8f",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/objects/object1",
+    "kind": "exercise",
+    "assembly": "Exercise_3c2c350cc6",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/objects/object2",
+    "kind": "exercise",
+    "assembly": "Exercise_5f4fe3a2c4",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/objects/object3",
+    "kind": "exercise",
+    "assembly": "Exercise_559c683b9c",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/objects/object4",
+    "kind": "exercise",
+    "assembly": "Exercise_fc5ff02021",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/objects/object5",
+    "kind": "exercise",
+    "assembly": "Exercise_95c94a832d",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/patient-average-42",
+    "kind": "exercise",
+    "assembly": "Exercise_da2058750c",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/plantheight-47",
+    "kind": "exercise",
+    "assembly": "Exercise_eca184b7ee",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/state-contest",
+    "kind": "exercise",
+    "assembly": "Exercise_41d6467d78",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/strings/string6",
+    "kind": "exercise",
+    "assembly": "Exercise_2fa5653a55",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/students-project-15",
+    "kind": "exercise",
+    "assembly": "Exercise_f9824bf2b7",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/stuednts-class-24",
+    "kind": "exercise",
+    "assembly": "Exercise_2e0ca9db51",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/sum-num-between-34",
+    "kind": "exercise",
+    "assembly": "Exercise_5de2bfee87",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/teamgrades-48",
+    "kind": "exercise",
+    "assembly": "Exercise_a30e7e769c",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/training",
+    "kind": "exercise",
+    "assembly": "Exercise_d054ccb83a",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/while-4",
+    "kind": "exercise",
+    "assembly": "Exercise_2744365447",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/function-analysis",
+    "kind": "exercise",
+    "assembly": "Exercise_7b4305599c",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/basics/exercise-17",
+    "kind": "exercise",
+    "assembly": "Exercise_5b178943ae",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/arrays/1dtr1",
+    "kind": "exercise",
+    "assembly": "Exercise_a0f4e12c5b",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/arrays/1dtr5",
+    "kind": "exercise",
+    "assembly": "Exercise_68b00adea4",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/arrays/abovediagonal",
+    "kind": "exercise",
+    "assembly": "Exercise_36a93bdb9c",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/arrays/abovesubdiago",
+    "kind": "exercise",
+    "assembly": "Exercise_871e079bad",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/arrays/belowdiagonal",
+    "kind": "exercise",
+    "assembly": "Exercise_31e55ce449",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/arrays/sumnumbers7",
+    "kind": "exercise",
+    "assembly": "Exercise_ec455d2375",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/arrays/tr1",
+    "kind": "exercise",
+    "assembly": "Exercise_bb28ebf5cb",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/arrays/tr2",
+    "kind": "exercise",
+    "assembly": "Exercise_6df5ba2719",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/arrays/tr3",
+    "kind": "exercise",
+    "assembly": "Exercise_60e08acde5",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/arrays/tr4",
+    "kind": "exercise",
+    "assembly": "Exercise_98a1e0bc03",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/arrays/tr5",
+    "kind": "exercise",
+    "assembly": "Exercise_adbd85332f",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/arrays/tr6",
+    "kind": "exercise",
+    "assembly": "Exercise_3d71707f6d",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/arrays/tr7",
+    "kind": "exercise",
+    "assembly": "Exercise_18f3310636",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/arrays/tr7b",
+    "kind": "exercise",
+    "assembly": "Exercise_b87d833c5d",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade10/arrays/flower",
+    "kind": "exercise",
+    "assembly": "Exercise_e6b75ea445",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "reference/csharp/grade11/competition-reference/starter-kit-bots-csharp",
+    "kind": "competition-reference",
+    "assembly": "Exercise_4cb72d13ca",
+    "status": "library",
+    "note": "",
+    "credit": "Supplied competition starter kit and IPirateGame API."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/ori-bachar-student-list",
+    "kind": "school-reference",
+    "assembly": "Exercise_1d1e5f59fc",
+    "status": "buildable",
+    "note": "",
+    "credit": "Ori Bachar (folder attribution)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/studentlist-consoleapplication1",
+    "kind": "school-reference",
+    "assembly": "Exercise_600d53867d",
+    "status": "buildable",
+    "note": "",
+    "credit": "Supplied classroom example; author not identified."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/studentlist-consoleapplication1-862fe4",
+    "kind": "school-reference",
+    "assembly": "Exercise_862fe4dece",
+    "status": "buildable",
+    "note": "",
+    "credit": "Supplied classroom example; author not identified."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/trees",
+    "kind": "school-reference",
+    "assembly": "Exercise_ea872d5a24",
+    "status": "buildable",
+    "note": "",
+    "credit": "Supplied classroom example; author not identified."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-yoav-b-consoleapplication1",
+    "kind": "school-reference",
+    "assembly": "Exercise_a6f755a80a",
+    "status": "buildable",
+    "note": "",
+    "credit": "Yoav B (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-yoav-b-consoleapplication2",
+    "kind": "school-reference",
+    "assembly": "Exercise_9c0e0eb40b",
+    "status": "buildable",
+    "note": "",
+    "credit": "Yoav B (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-yoav-b-consoleapplication3",
+    "kind": "school-reference",
+    "assembly": "Exercise_27e5ffbc86",
+    "status": "buildable",
+    "note": "",
+    "credit": "Yoav B (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-progect1",
+    "kind": "school-reference",
+    "assembly": "Exercise_f97bf8d7d2",
+    "status": "buildable",
+    "note": "",
+    "credit": "Talia classroom collection (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-progect2",
+    "kind": "school-reference",
+    "assembly": "Exercise_90c0de33b4",
+    "status": "buildable",
+    "note": "",
+    "credit": "Talia classroom collection (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-yoaviz-consoleapplication1",
+    "kind": "school-reference",
+    "assembly": "Exercise_e0b6fdf7ab",
+    "status": "buildable",
+    "note": "",
+    "credit": "yoaviz (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-yoaviz-consoleapplication2",
+    "kind": "school-reference",
+    "assembly": "Exercise_3efacb5609",
+    "status": "buildable",
+    "note": "",
+    "credit": "yoaviz (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-yoaviz-consoleapplication3",
+    "kind": "school-reference",
+    "assembly": "Exercise_32c434f610",
+    "status": "buildable",
+    "note": "",
+    "credit": "yoaviz (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-yoaviz-consoleapplication4",
+    "kind": "school-reference",
+    "assembly": "Exercise_08889a278d",
+    "status": "buildable",
+    "note": "",
+    "credit": "yoaviz (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-yoaviz-consoleapplication5",
+    "kind": "school-reference",
+    "assembly": "Exercise_5d76075af0",
+    "status": "buildable",
+    "note": "",
+    "credit": "yoaviz (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-16-9-2015-tar1",
+    "kind": "school-reference",
+    "assembly": "Exercise_9cc9da1a49",
+    "status": "buildable",
+    "note": "",
+    "credit": "Talia classroom collection (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-16-9-2015-tar2",
+    "kind": "school-reference",
+    "assembly": "Exercise_4c4aa41fd8",
+    "status": "buildable",
+    "note": "",
+    "credit": "Talia classroom collection (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-fklasjkl-fsa-consoleapplication1",
+    "kind": "school-reference",
+    "assembly": "Exercise_d15ac18e6e",
+    "status": "buildable",
+    "note": "",
+    "credit": "Talia classroom collection (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-example",
+    "kind": "school-reference",
+    "assembly": "Exercise_dfd980059d",
+    "status": "draft",
+    "note": "The supplied example ends with an unfinished else branch.",
+    "credit": "Talia classroom collection (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-example-2ade82",
+    "kind": "school-reference",
+    "assembly": "Exercise_2ade8246fd",
+    "status": "buildable",
+    "note": "",
+    "credit": "Talia classroom collection (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-consoleapplication1",
+    "kind": "school-reference",
+    "assembly": "Exercise_ec05ebef07",
+    "status": "buildable",
+    "note": "",
+    "credit": "Talia classroom collection (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/1-2016-consoleapplication2",
+    "kind": "school-reference",
+    "assembly": "Exercise_4cecf8948c",
+    "status": "buildable",
+    "note": "",
+    "credit": "Talia classroom collection (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/2-consoleapplication1",
+    "kind": "school-reference",
+    "assembly": "Exercise_6e1ce3c633",
+    "status": "library",
+    "note": "",
+    "credit": "Supplied classroom example; author not identified."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/2-sumlist-consoleapplication1",
+    "kind": "school-reference",
+    "assembly": "Exercise_cc7c8c67ed",
+    "status": "buildable",
+    "note": "",
+    "credit": "Supplied classroom example; author not identified."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/2-nodes-1-nodes",
+    "kind": "school-reference",
+    "assembly": "Exercise_76661686aa",
+    "status": "buildable",
+    "note": "",
+    "credit": "Supplied classroom example; author not identified."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/2-consoleapplication1-618c33",
+    "kind": "school-reference",
+    "assembly": "Exercise_618c33b0f8",
+    "status": "draft",
+    "note": "Requires the Unit4.CollectionsLib teaching library.",
+    "credit": "Supplied classroom example; author not identified."
+  },
+  {
+    "path": "csharp/grade11/linked-lists/birthday",
+    "kind": "exercise",
+    "assembly": "Exercise_9ba4b35d03",
+    "status": "draft",
+    "note": "The duplicate-name routine is unfinished and calls a missing method.",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/blackgammon",
+    "kind": "exercise",
+    "assembly": "Exercise_42d0e30128",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/board",
+    "kind": "exercise",
+    "assembly": "Exercise_36d40f7e68",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/bus",
+    "kind": "exercise",
+    "assembly": "Exercise_17d71a321c",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/busroutes-2015-3",
+    "kind": "exercise",
+    "assembly": "Exercise_1d8f004a55",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/collec-2014-2",
+    "kind": "exercise",
+    "assembly": "Exercise_4f05b59af2",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/domino",
+    "kind": "exercise",
+    "assembly": "Exercise_764ee5bbec",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/flower",
+    "kind": "exercise",
+    "assembly": "Exercise_03a61dfad8",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/hishtalmoot",
+    "kind": "exercise",
+    "assembly": "Exercise_0af9d7c3f8",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/intnode",
+    "kind": "exercise",
+    "assembly": "Exercise_a87d13ee59",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "reference/csharp/grade11/classmate-reference/intnode",
+    "kind": "classmate-reference",
+    "assembly": "Exercise_a431f7ec05",
+    "status": "buildable",
+    "note": "",
+    "credit": "Ori Arzi (folder attribution)."
+  },
+  {
+    "path": "csharp/grade11/linked-lists/typist-database",
+    "kind": "exercise",
+    "assembly": "Exercise_507410ebc3",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "reference/csharp/grade11/classmate-reference/ori-minus-one-variants",
+    "kind": "classmate-reference",
+    "assembly": "Exercise_16d9799da2",
+    "status": "buildable",
+    "note": "",
+    "credit": "Ori Arzi (folder attribution)."
+  },
+  {
+    "path": "csharp/grade11/linked-lists/minus1",
+    "kind": "exercise",
+    "assembly": "Exercise_bb035c6f4d",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "reference/csharp/grade11/classmate-reference/ori-node-exercises-oriintnodewithisexist",
+    "kind": "classmate-reference",
+    "assembly": "Exercise_4e484fc7a5",
+    "status": "buildable",
+    "note": "",
+    "credit": "Ori Arzi (folder attribution)."
+  },
+  {
+    "path": "reference/csharp/grade11/classmate-reference/ori-node-exercises-student-list-question",
+    "kind": "classmate-reference",
+    "assembly": "Exercise_2357beaddd",
+    "status": "buildable",
+    "note": "",
+    "credit": "Ori Arzi (folder attribution)."
+  },
+  {
+    "path": "csharp/grade11/linked-lists/numbernode",
+    "kind": "exercise",
+    "assembly": "Exercise_928a2d6be8",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/phonebook-birthday",
+    "kind": "exercise",
+    "assembly": "Exercise_7c02234a40",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "reference/csharp/grade11/textbook-phonebook",
+    "kind": "textbook-reference",
+    "assembly": "Exercise_6003445808",
+    "status": "buildable",
+    "note": "",
+    "credit": "Computer Science team, Science Teaching Center, Hebrew University of Jerusalem (source header)."
+  },
+  {
+    "path": "csharp/grade11/linked-lists/pointnodet",
+    "kind": "exercise",
+    "assembly": "Exercise_abffc400eb",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/school-2014-3",
+    "kind": "exercise",
+    "assembly": "Exercise_31c7221bbd",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/sum3lists",
+    "kind": "exercise",
+    "assembly": "Exercise_985140ef49",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/targil50",
+    "kind": "exercise",
+    "assembly": "Exercise_68bd5b8213",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/zipinfo-v1",
+    "kind": "exercise",
+    "assembly": "Exercise_2696596848",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/zipinfo-v2",
+    "kind": "exercise",
+    "assembly": "Exercise_dc6e46f4f4",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/zipinfo",
+    "kind": "exercise",
+    "assembly": "Exercise_1b2cfcbd01",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/linked-lists/generic-node",
+    "kind": "exercise",
+    "assembly": "Exercise_9904c1657a",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/domino-example",
+    "kind": "school-reference",
+    "assembly": "Exercise_9a1f9e2bf2",
+    "status": "buildable",
+    "note": "",
+    "credit": "Teacher solutions (folder label)."
+  },
+  {
+    "path": "reference/csharp/grade11/school-reference/backgammon-example",
+    "kind": "school-reference",
+    "assembly": "Exercise_14d847a183",
+    "status": "buildable",
+    "note": "",
+    "credit": "Teacher solutions (folder label)."
+  },
+  {
+    "path": "csharp/grade11/arrays/dualarrayactions",
+    "kind": "exercise",
+    "assembly": "Exercise_1a49ea4b77",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/arrays/highest2",
+    "kind": "exercise",
+    "assembly": "Exercise_bb6b138ea0",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/arrays/multiarray",
+    "kind": "exercise",
+    "assembly": "Exercise_29d1ad95a2",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/arrays/positive-negative",
+    "kind": "exercise",
+    "assembly": "Exercise_492491f67c",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/arrays/arrangechar",
+    "kind": "exercise",
+    "assembly": "Exercise_eb173776dc",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/arrays/switchedarray",
+    "kind": "exercise",
+    "assembly": "Exercise_f134fa91f9",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/methods/monthdays",
+    "kind": "exercise",
+    "assembly": "Exercise_fa4f80ae90",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/stacks-and-queues/deque",
+    "kind": "exercise",
+    "assembly": "Exercise_c073265370",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/stacks-and-queues/miunmahsanit",
+    "kind": "exercise",
+    "assembly": "Exercise_d41b2c2254",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/stacks-and-queues/queue",
+    "kind": "exercise",
+    "assembly": "Exercise_74eec83a18",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/stacks-and-queues/radixsort",
+    "kind": "exercise",
+    "assembly": "Exercise_dd2e56c9ae",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/stacks-and-queues/slavesforking",
+    "kind": "exercise",
+    "assembly": "Exercise_53ad4473ae",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/stacks-and-queues/stackbasic",
+    "kind": "exercise",
+    "assembly": "Exercise_d930a14aff",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/binary-trees/binnodequestions",
+    "kind": "exercise",
+    "assembly": "Exercise_37dba040bc",
+    "status": "draft",
+    "note": "The tree-level exercise requires the missing InfoLevel class.",
+    "credit": ""
+  },
+  {
+    "path": "reference/csharp/grade11/textbook-tree-solutions",
+    "kind": "textbook-reference",
+    "assembly": "Exercise_6411a5da75",
+    "status": "draft",
+    "note": "Chapter 10 textbook solutions; require the Unit4.CollectionsLib teaching library.",
+    "credit": "Supplied chapter 10 textbook solutions."
+  },
+  {
+    "path": "csharp/grade11/objects/bucketex",
+    "kind": "exercise",
+    "assembly": "Exercise_e1edc943e7",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/objects/buildingsclass",
+    "kind": "exercise",
+    "assembly": "Exercise_fd353e6550",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/objects/createclassex",
+    "kind": "exercise",
+    "assembly": "Exercise_30c5cdf342",
+    "status": "draft",
+    "note": "The class-generator action has no implementation.",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/objects/phonebook",
+    "kind": "exercise",
+    "assembly": "Exercise_5b951130c6",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/objects/pointgeometry",
+    "kind": "exercise",
+    "assembly": "Exercise_fadbea89f6",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/objects/student",
+    "kind": "exercise",
+    "assembly": "Exercise_e174ec26ce",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/objects/trainclass",
+    "kind": "exercise",
+    "assembly": "Exercise_585db0b0a9",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/recursion/arrdiff",
+    "kind": "exercise",
+    "assembly": "Exercise_8f4b391aea",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/recursion/arrsum",
+    "kind": "exercise",
+    "assembly": "Exercise_9e8ea31c2f",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/recursion/countarr",
+    "kind": "exercise",
+    "assembly": "Exercise_1f793d29ef",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/recursion/digitavg",
+    "kind": "exercise",
+    "assembly": "Exercise_57e75dc9ac",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/recursion/digitcnt",
+    "kind": "exercise",
+    "assembly": "Exercise_5572a51ef6",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/recursion/numprefix",
+    "kind": "exercise",
+    "assembly": "Exercise_7e1b553b5a",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/recursion/power",
+    "kind": "exercise",
+    "assembly": "Exercise_d80cd4214a",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/recursion/risearr",
+    "kind": "exercise",
+    "assembly": "Exercise_4acfb7598c",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/recursion/samedigitplace",
+    "kind": "exercise",
+    "assembly": "Exercise_e66e9f9428",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/recursion/stars",
+    "kind": "exercise",
+    "assembly": "Exercise_451b2bd5c1",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/recursion/sumdigits",
+    "kind": "exercise",
+    "assembly": "Exercise_2cf342ff3b",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/recursion/tdigitavg",
+    "kind": "exercise",
+    "assembly": "Exercise_06a15aff72",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade11/recursion/question4page",
+    "kind": "exercise",
+    "assembly": "Exercise_4b2f41e43e",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade12/algorithms/coin-changing-logic",
+    "kind": "exercise",
+    "assembly": "Exercise_f01e60a38e",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade12/algorithms/coinchangedirect",
+    "kind": "exercise",
+    "assembly": "Exercise_236f24bfd4",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  },
+  {
+    "path": "csharp/grade12/algorithms/problem80",
+    "kind": "exercise",
+    "assembly": "Exercise_bf412045e8",
+    "status": "buildable",
+    "note": "",
+    "credit": ""
+  }
+]

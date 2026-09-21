@@ -1,0 +1,20 @@
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup><OutputType>Library</OutputType><AssemblyName>test1</AssemblyName><TargetFrameworkVersion>v4.0</TargetFrameworkVersion><OutputPath>bin/</OutputPath></PropertyGroup>
+  <ItemGroup><Reference Include="System"/><Reference Include="System.Core"/><Reference Include="System.Web"/><Reference Include="System.Web.Extensions"/><Reference Include="System.Configuration"/></ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.aspx.cs" />
+    <Compile Include="About.aspx.designer.cs" />
+    <Compile Include="Account/ChangePassword.aspx.cs" />
+    <Compile Include="Account/ChangePassword.aspx.designer.cs" />
+    <Compile Include="Account/ChangePasswordSuccess.aspx.cs" />
+    <Compile Include="Account/ChangePasswordSuccess.aspx.designer.cs" />
+    <Compile Include="Account/Login.aspx.cs" />
+    <Compile Include="Account/Login.aspx.designer.cs" />
+    <Compile Include="Account/Register.aspx.cs" />
+    <Compile Include="Account/Register.aspx.designer.cs" />
+    <Compile Include="Global.asax.cs" />
+    <Compile Include="Site.Master.cs" />
+    <Compile Include="Site.Master.designer.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)/Microsoft.CSharp.targets" />
+</Project>

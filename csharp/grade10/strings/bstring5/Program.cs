@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string str = Console.ReadLine();
+            int num = int.Parse(Console.ReadLine());
+            int n = str.Length;
+            if (num <= n)
+            {
+                Console.WriteLine(str[num]);
+            }
+            else
+                Console.WriteLine("X");
+        }
+    }
+}
